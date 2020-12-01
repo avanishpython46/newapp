@@ -1,3 +1,3 @@
 # Newapp
 
-This is a gui based application.
+This is are gui based application.
