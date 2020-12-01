@@ -19,7 +19,7 @@ def calc():
             
 
 root = tk.Tk()
-root.title('Calculator')
+root.title('Calculator part1')
 
 
 
